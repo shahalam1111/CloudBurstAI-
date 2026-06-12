@@ -12,3 +12,13 @@ A complete ML pipeline — from raw data ingestion and feature engineering to mo
 
 ## 🌍 Why it matters:
 This project demonstrates how AI can be directly applied to disaster preparedness and early warning systems — a growing priority for governments, climate tech startups, and environmental agencies worldwide.
+
+## Tech Stack: 
+* Python 
+* Pandas 
+* NumPy 
+* Scikit-learn 
+* Matplotlib 
+
+## Dataset
+Wyoming Radiosonde Dataset
