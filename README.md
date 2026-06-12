@@ -4,7 +4,7 @@ Built an AI-powered early warning system that predicts cloudburst events from at
 ## Project Description — Key Problems
 
 Every year, cloudburst events claim hundreds of lives and cause billions in damage — often because warnings come too late or not at all.
-CloudBurstAI is an end-to-end machine learning system I built to tackle this problem, using real-world upper-air atmospheric sounding data (radiosonde) sourced from the University of Wyoming. 
+CloudBurstAI is an end-to-end machine learning system. I built to tackle this problem, using real-world upper-air atmospheric sounding data (radiosonde) sourced from the University of Wyoming. 
 By analyzing key meteorological signals — pressure gradients, dew point depression, humidity profiles, and wind shear — the system learns to recognize the atmospheric fingerprint of an impending cloudburst event.
 🔧 
 ## What I built:
